@@ -1,0 +1,6 @@
+*REACT + TypeScript using Vite*
+>> Notes App <<
+
+> Installed react-bootstrap | bootstrap | react-router-dom
+> Import modules accordingly.
+> Understand basics of Routes.
